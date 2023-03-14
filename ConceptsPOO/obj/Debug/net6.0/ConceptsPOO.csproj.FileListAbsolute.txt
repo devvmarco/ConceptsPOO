@@ -1,0 +1,15 @@
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\bin\Debug\net6.0\ConceptsPOO.exe
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\bin\Debug\net6.0\ConceptsPOO.deps.json
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\bin\Debug\net6.0\ConceptsPOO.runtimeconfig.json
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\bin\Debug\net6.0\ConceptsPOO.dll
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\bin\Debug\net6.0\ConceptsPOO.pdb
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.csproj.AssemblyReference.cache
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.AssemblyInfoInputs.cache
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.AssemblyInfo.cs
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.csproj.CoreCompileInputs.cache
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.dll
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\refint\ConceptsPOO.dll
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.pdb
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ConceptsPOO.genruntimeconfig.cache
+D:\ProjetoZulu\ConceptsPOO\ConceptsPOO\obj\Debug\net6.0\ref\ConceptsPOO.dll
