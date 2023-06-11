@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /ConceptsPOO/.vs/ConceptsPOO/DesignTimeBuild/.dtbcache.v2
+/ConceptsPOO/.vs/ConceptsPOO/v17/.suo
